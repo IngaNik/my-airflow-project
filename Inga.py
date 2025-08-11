@@ -1,1 +1,1 @@
-select lalalla from zhopa
+select lalalla from kenguru
