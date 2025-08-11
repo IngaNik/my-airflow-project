@@ -1,1 +1,1 @@
-select lalalla from 
+select lalalla from kenguru
